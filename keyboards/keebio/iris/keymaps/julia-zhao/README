@@ -1,0 +1,11 @@
+LEFT ROTARY ENCODER:
+layer 0: shift tabs
+layer 1: zoom
+layer 2: 
+
+RIGHT ROTARY ENCODER:
+layer 0: vol
+layer 1: songs
+layer 2: home/end
+
+**note: VIA support has been turned off. the remaining keymap is contained in iris_rev__6.json and must be uploaded into VIA configurator after flashing the keyboard.
