@@ -32,7 +32,7 @@
       "KC_NO",
       "KC_LGUI",
       "FN_MO13",
-      "KC_SPC",
+      "KC_ENT",
       "C(KC_0)",
       "KC_BSPC",
       "KC_0",
@@ -62,7 +62,7 @@
       "KC_NO",
       "KC_RALT",
       "FN_MO23",
-      "KC_ENT",
+      "KC_SPC",
       "KC_MUTE"
     ],
     [
